@@ -1,4 +1,4 @@
-# ResouceTester
+# ResourceTester
 看到一个资源的地址，命名很有规则，是不是就可以测试出来这个站点的其他资源在哪？
 
 # 思路如下
