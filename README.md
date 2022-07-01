@@ -20,3 +20,9 @@ http://***/zy/0517/15.m3u8 看起来就是日期+index 的一个资源堆叠方�
   - 默认100 你可以先设置为1，跑一下资源大概在哪些日期，再改成大一点的数
 - 等待程序执行完成
 - 打开你设置的下载路径 看看都有啥
+
+## 于是 ...
+
+![https://bafybeidj6thjfy7aeqgl26ht36jlptvbp25bvszcujkppwidrlpidnoori.ipfs.dweb.link/](https://bafybeidj6thjfy7aeqgl26ht36jlptvbp25bvszcujkppwidrlpidnoori.ipfs.dweb.link/)
+
+本次是测试的一个M3U8格式的资源， M3U8 文件不一定在本地就能播放，部分能，部分不能，取决于内部是用的相对路径还是绝对路径；本人使用的是 VLC 播放器。 
